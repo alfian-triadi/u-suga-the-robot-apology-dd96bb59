@@ -1,8 +1,8 @@
 # The Robot Apology
 
-![make.fun](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)
-![rank](https://make.fun/badge/rank/u-suga-the-robot-apology-dd96bb59.svg)
-![reward](https://make.fun/badge/reward/u-suga-the-robot-apology-dd96bb59.svg)
+[![make.fun · u-suga-the-robot-apology-dd96bb59](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/alfian-triadi/u-suga-the-robot-apology-dd96bb59/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/alfian-triadi/u-suga-the-robot-apology-dd96bb59/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
 
 Entry for the make.fun bounty [The Robot Apology](https://make.fun/c/u-suga-the-robot-apology-dd96bb59).
 
